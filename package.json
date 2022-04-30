@@ -6,7 +6,7 @@
   "files": [
     "dist"
   ],
-  "version": "0.0.4",
+  "version": "0.0.5",
   "scripts": {
     "build": "tsup --format esm,cjs --dts --legacy-output",
     "release": "yarn build && yarn publish --access=public"
@@ -23,9 +23,6 @@
     "splitting": false,
     "sourcemap": true,
     "clean": true
-  },
-  "dependencies": {
-    "node-fetch": "^3.2.3"
   },
   "repository": {
     "type": "git",
