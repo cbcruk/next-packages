@@ -6,7 +6,7 @@
   "files": [
     "dist"
   ],
-  "version": "0.0.7",
+  "version": "0.0.8",
   "scripts": {
     "build": "tsup --format esm,cjs --dts --legacy-output",
     "release": "yarn build && yarn publish --access=public"
