@@ -1,6 +1,6 @@
 export const REQUEST_INIT = {
   headers: {
-    Authorization: `Bearer ${process.env.AIRTABLE_API_KEY}`,
+    Authorization: `Bearer ${process.env.AIRTABLE_API_KEY || ''}`,
   },
 }
 

@@ -7,7 +7,7 @@ export async function getList<T>({ url, params }: GetListArgs) {
     ...DEFAULT_PARAMS,
     ...params,
   })
-  const input = `${process.env.AIRTABLE_URL + url}?${query}`
+  const input = `${(process.env.AIRTABLE_URL || '') + url}?${query}`
   const response = await fetch(input, REQUEST_INIT)
   const data = (await response.json()) as AirtableResponse<T>
 
