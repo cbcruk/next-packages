@@ -1,0 +1,97 @@
+{
+  "records": [
+    {
+      "id": "rec03dIzmxMmMHxHd",
+      "createdTime": "2022-03-09T11:58:33.000Z",
+      "fields": {
+        "title": "銃座のウルナ",
+        "attachments": [
+          {
+            "id": "attx4m6Uu4ERJZvhN",
+            "width": 900,
+            "height": 1280,
+            "url": "https://dl.airtable.com/.attachments/244b041e82774d9635c6c457266cb1dd/b6735cb6/B01BXR14BM.01.S001.LXXXXXXX.jpg?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=02cf85edc599fdbd",
+            "filename": "B01BXR14BM.01.S001.LXXXXXXX.jpg",
+            "size": 317926,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/7b0a0a5210a17b780dcb5d1b636af821/881da392?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=ff950e4e02f1d40d",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/2957ae64da132aaddf3a8c816e4a9032/50c10941?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=ced0d629ce34c30a",
+                "width": 512,
+                "height": 728
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0713171fd7c4e714763fcdcc3f0bbffd/ab265285?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=101d23b96d27eed8",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "status": "release",
+        "link": "https://www.amazon.co.jp/%E9%8A%83%E5%BA%A7%E3%81%AE%E3%82%A6%E3%83%AB%E3%83%8A-1-%E3%83%93%E3%83%BC%E3%83%A0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E4%BC%8A%E5%9B%B3%E9%80%8F-ebook/dp/B01BXR14BM/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=RE1NDU93NCJU&keywords=%E9%8A%83%E5%BA%A7%E3%81%AE%E3%82%A6%E3%83%AB%E3%83%8A&qid=1646792714&sprefix=%E9%8A%83%E5%BA%A7%E3%81%AE%E3%82%A6%E3%83%AB%E3%83%8A%2Caps%2C171&sr=8-2",
+        "timestamp": "2022-03-09",
+        "title_ko": "총좌의 우르나",
+        "index": 79,
+        "table2": ["recbqzmdgnCDMFhe3"],
+        "created": "2022-03-09T11:58:33.000Z",
+        "last_modified": "2022-04-10T12:09:15.000Z",
+        "authors_ko": ["이즈 토오루"],
+        "authors": ["伊図透"],
+        "record_id": "rec03dIzmxMmMHxHd"
+      }
+    },
+    {
+      "id": "rec0LhSfQbPjmwefJ",
+      "createdTime": "2022-03-06T00:56:49.000Z",
+      "fields": {
+        "title": "あさひなぐ",
+        "attachments": [
+          {
+            "id": "attAJhdlIhhCDwZNu",
+            "width": 847,
+            "height": 1200,
+            "url": "https://dl.airtable.com/.attachments/019633bad153d7354599095a70506742/02ee85c7/671130834582061056.jpg?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=67bb57d681507f11",
+            "filename": "671130834582061056.jpg",
+            "size": 249457,
+            "type": "image/jpeg",
+            "thumbnails": {
+              "small": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/9ca22f54450602d9ae6fb1eefe57d7c6/6e85a495?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=04ddb48f8abaceae",
+                "width": 25,
+                "height": 36
+              },
+              "large": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/0b506a8b7cc5f4fd3eeb770499f8ed0b/7dc66ff2?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=c63ebd9dc47e5f52",
+                "width": 512,
+                "height": 725
+              },
+              "full": {
+                "url": "https://dl.airtable.com/.attachmentThumbnails/868e671a53432eaaa6478ed1cd68ee65/1abbf17d?ts=1651497229&userId=usrATaRqYn9Vjk5mC&cs=5baa4a52e192c53e",
+                "width": 3000,
+                "height": 3000
+              }
+            }
+          }
+        ],
+        "status": "release",
+        "link": "https://www.amazon.co.jp/%E3%81%82%E3%81%95%E3%81%B2%E3%81%AA%E3%81%90%EF%BC%88%EF%BC%91%EF%BC%89-%E3%83%93%E3%83%83%E3%82%B0%E3%82%B3%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9-%E3%81%93%E3%81%96%E3%81%8D%E4%BA%9C%E8%A1%A3-ebook/dp/B00GXX4U7C/ref=sr_1_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2GPAY92IH9PF1&keywords=%E3%81%82%E3%81%95%E3%81%B2%E3%81%AA%E3%81%90&qid=1646528700&s=books&sprefix=%E3%81%82%E3%81%95%E3%81%B2%E3%81%AA%E3%81%90%2Cstripbooks%2C174&sr=1-1",
+        "timestamp": "2021-12-20",
+        "title_ko": "아사히나구",
+        "index": 18,
+        "table2": ["reci15JCLVupbwwXq"],
+        "created": "2022-03-06T00:56:49.000Z",
+        "last_modified": "2022-04-10T12:09:15.000Z",
+        "authors_ko": ["코자키 아이"],
+        "authors": ["こざき亜衣"],
+        "record_id": "rec0LhSfQbPjmwefJ"
+      }
+    }
+  ],
+  "offset": "itrlTRc8LOJsoNjwO/rec0LhSfQbPjmwefJ"
+}
