@@ -1,5 +1,5 @@
 import { DEFAULT_PARAMS, REQUEST_INIT } from './constants'
-import { AirtableResponse, GetListArgs } from './types'
+import type { AirtableResponse, GetListArgs } from './types'
 import { getQueryString } from './utils'
 
 export async function getList<T>({ url, params }: GetListArgs) {
@@ -30,5 +30,3 @@ export async function getListAll<T>(
 
   return records
 }
-
-export * from './types'
