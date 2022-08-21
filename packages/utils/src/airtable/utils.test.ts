@@ -1,5 +1,5 @@
 import { expect, test } from 'vitest'
-import { getQueryString } from '../src/utils'
+import { getQueryString } from './utils'
 
 test('getQueryString', () => {
   const query = getQueryString({
