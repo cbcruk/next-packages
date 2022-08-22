@@ -1,6 +1,6 @@
 import { Params } from './types'
 
-export function getQueryString(params: Params) {
+export function getQueryString<TField>(params: Params<TField>) {
   const searchParams = new URLSearchParams()
 
   Object.entries(params).forEach(([key, value]) => {

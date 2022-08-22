@@ -1,7 +1,7 @@
 import { test, expect } from 'vitest'
 import { afterAll, afterEach, beforeAll } from 'vitest'
-import server from '../mocks/server'
-import { getList } from '../src/index'
+import server from '../../mocks/server'
+import { getList } from './getList'
 
 beforeAll(() => server.listen({ onUnhandledRequest: 'error' }))
 afterAll(() => server.close())
