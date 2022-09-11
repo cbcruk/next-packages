@@ -1,3 +1,5 @@
+export const PAGE_SIZE = 20
+
 export const REQUEST_INIT = {
   headers: {
     Authorization: `Bearer ${process.env.AIRTABLE_API_KEY || ''}`,
@@ -5,5 +7,5 @@ export const REQUEST_INIT = {
 }
 
 export const DEFAULT_PARAMS = {
-  pageSize: 20,
+  pageSize: PAGE_SIZE,
 }
