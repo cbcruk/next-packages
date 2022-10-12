@@ -6,7 +6,7 @@
   "files": [
     "dist"
   ],
-  "version": "0.0.13-alpha.4",
+  "version": "0.0.13-alpha.5",
   "scripts": {
     "dev": "tsup --format esm,cjs --dts --legacy-output --watch",
     "build": "tsup --format esm,cjs --dts --legacy-output",
