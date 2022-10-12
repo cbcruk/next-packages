@@ -1,4 +1,5 @@
 export * from './getLastIndex'
+export * from './getItem'
 export * from './getList'
 export * from './getListAll'
 export * from './getLastPage'
